@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"window.closeWhenEmpty": true,
+		"window.autoDetectColorScheme": false,
+		"window.zoomLevel": 1
+	}
+}
